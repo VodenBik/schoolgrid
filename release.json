@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "installerUrl": "https://github.com/VodenBik/schoolgrid/releases/download/v1.0.1/SchoolScheduler-1.0.1-Setup.exe",
-  "sha256": "1163ACFC3B95A6341C6DC1295D814D50530AC4B6D41E0E2DCC2F1316EBEDBFFA",
-  "notes": "Добавлена безопасная проверка и установка обновлений.",
+  "version": "1.0.2",
+  "installerUrl": "https://github.com/VodenBik/schoolgrid/releases/download/v1.0.2/SchoolScheduler-1.0.2-Setup.exe",
+  "sha256": "84A9A923638820FF76A5742C3145CDC1D55B1594AD56E09EFE51294047F5686E",
+  "notes": "Добавлена видимая проверка обновлений в приложении.",
   "required": false
 }
