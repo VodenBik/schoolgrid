@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "installerUrl": "https://github.com/VodenBik/schoolgrid/releases/download/v1.0.2/SchoolScheduler-1.0.2-Setup.exe",
-  "sha256": "292FFB661FDEDB93A96BEC3AF6EAF0D12CAFB00DBEAB4AB5560910F269AEE048",
-  "notes": "Добавлена видимая проверка обновлений в приложении.",
+  "version": "1.0.3",
+  "installerUrl": "https://github.com/VodenBik/schoolgrid/releases/download/v1.0.3/SchoolScheduler-1.0.3-Setup.exe",
+  "sha256": "289DF10F3E1BA29D9AE9737E3D051C2E417AB66A8BEB16243E18DCBAE8498C23",
+  "notes": "Исправлено подключение Groq API в установленном приложении.",
   "required": false
 }
